@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       environment:
-        description: Pick one
+        description: Pick onetxo
         required: false
         type: choice
         options:
